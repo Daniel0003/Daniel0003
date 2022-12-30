@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SACHIN DANIEL</h1>
-<h3 align="center">Cloud is my Jam! & I love to share the knowledge with everyone!</h3>
+<h3 align="center">Cloud is my Jam! & I love sharing my knowledge with everyone!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel0003&label=Profile%20views&color=0e75b6&style=flat" alt="daniel0003" /> </p>
 
